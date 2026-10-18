@@ -1,0 +1,7 @@
+,Baseline F1,Tuned F1,Improvement
+Gradient Boosting,0.7329,0.7275,-0.0054
+Random Forest,0.7379,0.7256,-0.0123
+Logistic Regression,0.7381,0.7227,-0.0154
+SVM,0.7331,0.7219,-0.0112
+KNN,0.7054,0.7214,0.016
+Decision Tree,0.6662,0.6906,0.0244
