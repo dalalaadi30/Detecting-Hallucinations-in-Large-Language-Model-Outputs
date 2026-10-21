@@ -1,4 +1,4 @@
-# Identifying Hallucinated Information in LLM Outputs
+# Detecting Hallucinations in Large Language Model Outputs: A Feature-Based Classification Approach
 
 **A machine learning study on detecting factual inconsistencies in Large Language Model (LLM) generated text.**
 
